@@ -1,6 +1,6 @@
-# Tech Community Platform
+# The Tech Community Github Platform
 
-Welcome to the **Tech Community Platform**! 🚀
+Welcome to the **The Tech Community Github Platform**! 🚀
 
 ## Overview
 
